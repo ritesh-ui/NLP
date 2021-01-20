@@ -9,4 +9,4 @@ nltk
 snowballstemmer==1.9.0
 spacy==2.3.4
 dill==0.3.3
-streamlit
+streamlit==0.74.1
