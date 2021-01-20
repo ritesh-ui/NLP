@@ -6,6 +6,7 @@ import dill
 import pandas as pd
 import numpy as np
 import spacy
+import nltk
 from nltk.stem.snowball import SnowballStemmer
 stemmer=SnowballStemmer(language='english')
 st.write("""
