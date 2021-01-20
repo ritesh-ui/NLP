@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run StreamLit.py
+worker: sh setup.sh && streamlit run StreamLit.py
