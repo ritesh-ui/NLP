@@ -1,2 +1,1 @@
-echo PORT $PORT
-web: sh setup.sh && streamlit run --server.port $PORT StreamLit.py
+web: streamlit run --server.enableCORS false --server.port $PORT StreamLit.py
